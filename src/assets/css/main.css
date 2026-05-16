@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Kelsi";
+  src: url("../assets/fonts/Kelsi-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Kelsi1";
+  src: url("../assets/fonts/Kelsi1-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #EEE6D5;
+  font-family: "Satoshi", sans-serif;
+  color: #000000;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  font-family: "Kelsi", sans-serif;
+  line-height: 1.1;
+}/*# sourceMappingURL=main.css.map */

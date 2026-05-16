@@ -1,0 +1,37 @@
+{
+  "info": {
+    "titulo": "Manual de Marca Bandcamp",
+    "autores": "Emma González, Sara Escribano, Marco Moyano, Jimena Aguilar"
+  },
+  
+  "paleta": [
+    { "nombre": "Azul Principal", "hex": "#1A73C1", "uso": "Confianza y estabilidad" },
+    { "nombre": "Rojo Calidez", "hex": "#EE4B3C", "uso": "Conexión emocional" },
+    { "nombre": "Amarillo Retro", "hex": "#FFBC1A", "uso": "Toque optimista" },
+    { "nombre": "Beige Base", "hex": "#EEE6D5", "uso": "Fondo neutro y equilibrio" }
+  ],
+  
+  "tipografias": [
+    { 
+      "nombre": "Kelsi", 
+      "rol": "Titulares de impacto", 
+      "descripcion": "Inspirada en el lenguaje cartoon, aporta dinamismo." 
+    },
+    { 
+      "nombre": "Kelsi1", 
+      "rol": "Titulares de impacto", 
+      "descripcion": "Inspirada en el lenguaje cartoon, aporta dinamismo." 
+    },
+    { 
+      "nombre": "Satoshi", 
+      "rol": "Cuerpo de texto", 
+      "descripcion": "Alta legibilidad en tamaños reducidos." 
+    }
+  ],
+
+  "introduccion": {
+    "titulo": "Introducción",
+    "parrafo1": "En este manual se detallan los principios visuales del rediseño de Bandcamp...",
+    "parrafo2": "Buscamos equilibrar la estética independiente con una funcionalidad moderna y accesible."
+  }
+}

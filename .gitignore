@@ -1,0 +1,12 @@
+# Ignorar las herramientas pesadas de Vue
+node_modules/
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar la carpeta de construcción final (dist)
+dist/
+
+# Ignorar variables locales
+.env.local
